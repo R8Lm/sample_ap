@@ -5,6 +5,7 @@ tmp/
 .sass-cache/
 doc/
 *.swp
+*.swo
 *~
 .project
 .DS_Store
